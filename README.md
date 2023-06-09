@@ -1,2 +1,2 @@
 # ubuntu
-I am therefor we are
+I am therefore we are
